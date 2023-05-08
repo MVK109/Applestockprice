@@ -1,0 +1,6 @@
+pandas
+sklearn
+streamlit 
+plotly
+statsmodels
+datetime
